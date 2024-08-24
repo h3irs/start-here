@@ -10,6 +10,11 @@
 
 HEIR/ES is a cutting-edge decentralized inheritance protocol designed to secure and manage the transfer of digital assets using blockchain technology. Built on the Ethereum Virtual Machine (EVM), HEIR/ES allows users to create smart contracts that automate the inheritance process, ensuring that digital wealth is securely passed on according to the owner's wishes.
 
+### Implementations
+The Heir/es Protocol is available in many flavours. If you make a selfhosted version submit a PR with your link in the format below.  
+- **General Audience**: [Begin Today](https://app.heir.es)
+- **Singularity Ecosystem**: [Endow Your Sentience](https://sail.heir.es)
+
 ### Why HEIR/ES?
 
 - **Preserve Your Digital Legacy**: In a world where digital assets are becoming as valuable as physical ones, ensuring that your digital legacy is preserved and passed on to your loved ones is crucial. HEIR/ES provides a secure and efficient solution to manage this process.
@@ -38,6 +43,11 @@ We believe in the power of open-source and community-driven development. Here’
 - **Submit Issues**: If you encounter bugs, have questions, or want to suggest new features, please submit an issue. We value feedback from the community to improve HEIR/ES.
 - **Pull Requests**: Contribute to the codebase by submitting pull requests. Whether it’s fixing bugs, improving documentation, or adding new features, your contributions are welcome.
 - **Join the Discussion**: Engage with other developers and users in our [Community Forum](t.me/heir_es). Share your ideas, ask questions, and collaborate on new projects.
+
+### Project Directory for Self Hosting
+
+- **Dashboard**: [ForkMe](https://github.com/heir-es/dashboard)
+- **Contracts**: [ForkMe](https://github.com/heir-es/protocol)
 
 ### Learn More
 
