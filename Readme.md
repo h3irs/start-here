@@ -27,17 +27,21 @@ HEIR/ES utilizes smart contracts to create inheritable containers for digital as
 ### Key Features
 
 - **Permissionless**: HEIR/ES operates in a permissionless environment, allowing anyone with digital assets to set up and manage their inheritance plans without restrictions.
-- **Interoperable**: Built on EVM, HEIR/ES is compatible with various Ethereum-based applications, providing seamless integration with existing digital ecosystems.
+- **Interoperable**: Built on EVM, HEIR/ES is compatible with all standard tokens, providing seamless integration with existing digital ecosystems.
 - **Transparent and Immutable**: Every transaction and asset transfer is recorded on the blockchain, ensuring transparency and an immutable record of ownership and transfer.
 
 ### Get Involved
 
 We believe in the power of open-source and community-driven development. Here’s how you can contribute:
 
-- **Fork the Repository**: Create your own copy of the HEIR/ES repository to work on. Experiment, innovate, and build on the protocol.
+- **Fork the Repository You Wish to Work On**: Create your own copy of the HEIR/ES repository to work on. Experiment, innovate, and build on the protocol.
 - **Submit Issues**: If you encounter bugs, have questions, or want to suggest new features, please submit an issue. We value feedback from the community to improve HEIR/ES.
 - **Pull Requests**: Contribute to the codebase by submitting pull requests. Whether it’s fixing bugs, improving documentation, or adding new features, your contributions are welcome.
-- **Join the Discussion**: Engage with other developers and users in our [Community Forum](#) or on our [Discord Channel](#). Share your ideas, ask questions, and collaborate on new projects.
+- **Join the Discussion**: Engage with other developers and users in our [Community Forum](t.me/heir_es). Share your ideas, ask questions, and collaborate on new projects.
+
+### Learn More
+
+You can really dig by heading over to [SentienceQuest](https:futjr.gitbook.io/sentience/heires)
 
 ### Licensing
 
